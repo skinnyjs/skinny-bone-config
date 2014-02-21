@@ -1,0 +1,20 @@
+{
+    "name": "skinny-bone-config",
+    "version": "0.1.0",
+    "description": "Config bone for skinny",
+    "author": "Geometria Lab",
+    "contributors": [
+        { "name": "Ivan Shumkov", "email": "ivan@shumkov.ru" }
+    ],
+    "main": "./bone.js",
+    "repository": {
+        "type" : "git",
+        "url"  : "https://github.com/skinnyjs/skinny-bone-config.git"
+    },
+    "dependencies" : {
+        "yaml-config": "0.3"
+    },
+    "devDependencies": {
+    },
+    "engines" : [ "node >=0.11" ]
+}
